@@ -1,0 +1,12 @@
+#livemark-display {
+  margin-bottom: 60px !important;
+}
+
+#livemark-main {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+
+#livemark-right, #livemark-left {
+    display: none !important;
+}
