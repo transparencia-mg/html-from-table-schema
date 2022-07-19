@@ -4,7 +4,7 @@ Exemplificação de História de usuário [Visualização dos metadados da spec 
 
 Ferramentas Utilizadas:
 
-Python 3.x
-Frictionless
-Livemark
-Frictionless components
+  - Python 3.x;
+  - [Frictionless](https://framework.frictionlessdata.io/docs/guides/guides-overview/);
+  - [Livemark](https://livemark.frictionlessdata.io/); e
+  - [Frictionless schema components](https://components.frictionlessdata.io/?path=/story/components-schema--empty).
